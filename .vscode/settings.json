@@ -1,6 +1,5 @@
 {
     "files.associations": {
-        "cstddef": "cpp",
         "algorithm": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -10,6 +9,7 @@
         "cmath": "cpp",
         "compare": "cpp",
         "concepts": "cpp",
+        "cstddef": "cpp",
         "cstdint": "cpp",
         "cstdio": "cpp",
         "cstdlib": "cpp",
