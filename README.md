@@ -3,7 +3,7 @@
   Genetic Algorithms Optimization Project
 </h1>
 <div align="center">
-  <img alt="Sample" src="https://raw.githubusercontent.com/pratapavinesh/ga-v-1/main/sample.png" width="100" />
+  <img alt="Sample" src="https://raw.githubusercontent.com/pratapavinesh/ga-v-1/main/sample.png" width="1000" />
 </div>
 
 ## Introduction
